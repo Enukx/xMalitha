@@ -29,7 +29,7 @@
 ![Metrics](https://metrics.lecoq.io/xMalitha?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 
 ## 🔗 Connect with me
-<a href="https://xmalitha.carrd.co" class="padded"><img align="left" alt="https://xditya.me" width="28px" src="./res/website.png" /></a> 
+
 <a href="https://t.me/Malitha_Mihiranga" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
 <a href="https://dev.to/malithamihiranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imdarklk" height="30" width="40" /></a>
 <a href="https://twitter.com/malithamihirang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdarkk0" height="30" width="40" /></a>
