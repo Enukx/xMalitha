@@ -4,7 +4,7 @@
 - 📫 [Connect with me](#-connect-with-me).
 - ⚡ Always ready to help!
  <br><br>
- <img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" width="300px">
+ <img src="="300px">
 
 
 
@@ -37,8 +37,11 @@
 </p>
 
 ## 🎵 Now playing
+<img src= "https://raw.githubusercontent.com/Gishankrishka2/Gishankrishka2/main/Gifs/5eeea355389655.59822ff824b72.gif">
 
-![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)
+ [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+
+---
 
 <!---
 xMalitha/xMalitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
