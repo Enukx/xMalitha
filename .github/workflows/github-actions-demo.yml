@@ -1,4 +1,4 @@
-name:xMalitha Readme
+name:github-actions-demo
 on:
   pull_request:
   push:
