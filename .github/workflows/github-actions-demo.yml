@@ -1,4 +1,6 @@
-name:github-actions-demo
+
+name: Github Actions Example
+
 on:
   pull_request:
   push:
