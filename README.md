@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Malitha Mihiranga](https://t.me/Malitha_Mihiranga) | ![Profile views](https://komarev.com/ghpvc/?username=xMalitha&style=flat&color=brightgreen)
+## Hi  I'm [Malitha Mihiranga](https://t.me/Malitha_Mihiranga) | ![Profile views](https://komarev.com/ghpvc/?username=xMalitha&style=flat&color=brightgreen)
 
 - 💫 I’m Still A Student
 - 📫 [Connect with me](#-connect-with-me).
