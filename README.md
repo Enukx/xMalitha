@@ -1,4 +1,4 @@
-### <center>⚡ HELLO ⚡
+### <center> Hello 👋
 
 ### 
 ```python
