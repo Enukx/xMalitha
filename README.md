@@ -1,4 +1,4 @@
-### <center> Hello 👋
+## Hi   <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width=28> I'm [Malitha Mihiranga](https://xmalitha.carrd.co/) | [![Profile views](https://komarev.com/ghpvc/?username=xMalitha&label=Profile%20views)](https://github.com/xditya)
 
 ### 
 ```python
