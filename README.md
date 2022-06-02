@@ -1,10 +1,34 @@
-## Hi  I'm [Malitha Mihiranga](https://t.me/Malitha_Mihiranga) | ![Profile views](https://komarev.com/ghpvc/?username=xMalitha&style=flat&color=brightgreen)
+### <center>⚡ HELLO ⚡
+
+### 
+```python
+Name = "Malitha Mihiranga"
+who_i_am = []
+Age = "Restricted"
+Country = "🇱🇰"
+```
+####
 
 - 💫 I’m Still A Student
 - 📫 [Connect with me](#-connect-with-me).
 - ⚡ Always ready to help!
  <br><br>
 
+
+## 🔗 Connect with me
+
+<a href="https://t.me/Malitha_Mihiranga" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
+<a href="https://dev.to/malithamihiranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imdarklk" height="30" width="40" /></a>
+<a href="https://twitter.com/malithamihirang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdarkk0" height="30" width="40" /></a>
+<a href="https://www.instagram.com/malitha__mihiranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshithaxd" height="30" width="40" /></a>
+</p><br>
+
+
+
+
+![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=xMalitha&include_all_commits=true&count_private=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMalitha&layout=compact&theme=radical)](https://github.com/xMalitha)
 
 
 
@@ -24,17 +48,7 @@
 <a href="https://redis.io" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a>
 </br>
 
-## 📊 Stats
 
-![Metrics](https://metrics.lecoq.io/xMalitha?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
-
-## 🔗 Connect with me
-
-<a href="https://t.me/Malitha_Mihiranga" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
-<a href="https://dev.to/malithamihiranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imdarklk" height="30" width="40" /></a>
-<a href="https://twitter.com/malithamihirang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdarkk0" height="30" width="40" /></a>
-<a href="https://www.instagram.com/malitha__mihiranga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshithaxd" height="30" width="40" /></a>
-</p>
 
 ## 🎵 Now playing
 <img src= "https://raw.githubusercontent.com/Gishankrishka2/Gishankrishka2/main/Gifs/5eeea355389655.59822ff824b72.gif" width="500">
