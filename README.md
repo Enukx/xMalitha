@@ -2,7 +2,7 @@
 
 ### 
 ```python
-Name = "Malitha Mihiranga"
+Name = "Enuka Pathiranage"
 who_i_am = [Developer]
 Age = "Restricted"
 Country = "🇱🇰"
